@@ -1,6 +1,6 @@
 <img src="http://goodee.co.kr/main/img/Untitled-1.jpg" width="189" height="80"></img>
 # WebMaven
-### Apache Maven
+### Apache Maven Project
 
 ### 참조 자료 링크
 > * [maven](https://maven.apache.org/)
